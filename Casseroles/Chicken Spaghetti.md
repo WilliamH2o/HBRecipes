@@ -4,8 +4,8 @@ Chicken Spaghetti
 ## Details
 
 **Prep:** ~? Minutes  
-**Cook:** ? Minutes  
-**Rest:** 5 Minutes
+**Cook:** 35 Minutes  
+**Rest:** 10 Minutes
 
 **Servings:** ~8 Adult Humans
 
