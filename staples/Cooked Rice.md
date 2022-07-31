@@ -1,6 +1,15 @@
 Cooked Rice
 ======
 
+## Details
+
+**Prep:** ~5 Minutes  
+**Cook:** 20 Minutes  
+**Rest:** 5 Minutes
+
+**Yeilds:** 3 Cups  
+**Servings:** 4 Adult Humans
+
 ## Ingredients
 
 - 1 cup Rice
