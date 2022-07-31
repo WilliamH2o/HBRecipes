@@ -45,9 +45,13 @@ Momma's Famous Chili
 3. Sprinkle heavily with Garlic Powder
 4. Drain Grease
 
+---
+
 1. Add ground beef to a large pot
 2. Add all the other ingredients
 3. Heat to a boil
+
+---
 
 1. Once boiling, lower heat to 2
 2. Cook for 3 to 4 hours or until thickened
